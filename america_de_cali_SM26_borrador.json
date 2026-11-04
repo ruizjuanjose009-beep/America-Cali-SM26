@@ -1,0 +1,312 @@
+{
+  "PlayerData": [
+    {
+      "ID": "REEMPLAZAR_ID_REAL_01",
+      "Forename": "Jean Paulo",
+      "Surname": "Fernandes",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_02",
+      "Forename": "Juan Pablo",
+      "Surname": "Montoya",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_03",
+      "Forename": "Alejandro",
+      "Surname": "Benítez",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_04",
+      "Forename": "Alexis",
+      "Surname": "Sinisterra",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_05",
+      "Forename": "Marlon",
+      "Surname": "Torres",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_06",
+      "Forename": "Dany",
+      "Surname": "Rosero",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_07",
+      "Forename": "Marcos",
+      "Surname": "Mina",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_08",
+      "Forename": "Ómar",
+      "Surname": "Bertel",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_09",
+      "Forename": "Mateo",
+      "Surname": "Castillo",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_10",
+      "Forename": "Nicolás",
+      "Surname": "Hernández",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_11",
+      "Forename": "Yani",
+      "Surname": "Quintero",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_12",
+      "Forename": "Cristian",
+      "Surname": "Tovar",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_13",
+      "Forename": "Yhormar",
+      "Surname": "Hurtado",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_14",
+      "Forename": "Brayan",
+      "Surname": "Córdoba",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_15",
+      "Forename": "Josen",
+      "Surname": "Escobar",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_16",
+      "Forename": "José",
+      "Surname": "Cavadía",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_17",
+      "Forename": "Yeison",
+      "Surname": "Guzmán",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_18",
+      "Forename": "Rafael",
+      "Surname": "Carrascal",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_19",
+      "Forename": "Jhon",
+      "Surname": "Murillo",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_20",
+      "Forename": "Jan",
+      "Surname": "Lucumí",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_21",
+      "Forename": "Jhon Tilman",
+      "Surname": "Palacios",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_22",
+      "Forename": "Adrián",
+      "Surname": "Ramos",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_23",
+      "Forename": "Daniel",
+      "Surname": "Valencia",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_24",
+      "Forename": "Tomás",
+      "Surname": "Ángel",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_25",
+      "Forename": "Luis",
+      "Surname": "Quiñones",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_26",
+      "Forename": "Edson",
+      "Surname": "Tortolero",
+      "ImageURL": ""
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_01",
+      "Name": "América de Cali",
+      "ShortName": "AME",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_02",
+      "Name": "Atlético Nacional",
+      "ShortName": "ATN",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_03",
+      "Name": "Deportivo Cali",
+      "ShortName": "DEC",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_04",
+      "Name": "Millonarios",
+      "ShortName": "MIL",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_05",
+      "Name": "Junior",
+      "ShortName": "JUN",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_06",
+      "Name": "Independiente Santa Fe",
+      "ShortName": "SFE",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_07",
+      "Name": "Deportivo Independiente Medellín",
+      "ShortName": "DIM",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_08",
+      "Name": "Once Caldas",
+      "ShortName": "ONC",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_09",
+      "Name": "Atlético Bucaramanga",
+      "ShortName": "BUC",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_10",
+      "Name": "Deportes Tolima",
+      "ShortName": "TOL",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_11",
+      "Name": "Deportivo Pasto",
+      "ShortName": "PAS",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_12",
+      "Name": "Águilas Doradas",
+      "ShortName": "AGU",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_13",
+      "Name": "La Equidad",
+      "ShortName": "EQU",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_14",
+      "Name": "Alianza FC",
+      "ShortName": "ALI",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_15",
+      "Name": "Envigado",
+      "ShortName": "ENV",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_16",
+      "Name": "Boyacá Chicó",
+      "ShortName": "CHI",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_17",
+      "Name": "Fortaleza CEIF",
+      "ShortName": "FOR",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_18",
+      "Name": "Unión Magdalena",
+      "ShortName": "MAG",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_19",
+      "Name": "Llaneros FC",
+      "ShortName": "LLA",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_CLUB_20",
+      "Name": "Cúcuta Deportivo",
+      "ShortName": "CUC",
+      "ImageURL": ""
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": "REEMPLAZAR_ID_REAL_LIGA",
+      "Name": "Liga BetPlay",
+      "ImageURL": ""
+    }
+  ],
+  "CupData": [
+    {
+      "ID": "REEMPLAZAR_ID_REAL_COPA_COLOMBIA",
+      "Name": "Copa Colombia",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_LIBERTADORES",
+      "Name": "Copa Libertadores",
+      "ImageURL": ""
+    },
+    {
+      "ID": "REEMPLAZAR_ID_REAL_SUDAMERICANA",
+      "Name": "Copa Sudamericana",
+      "ImageURL": ""
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": "REEMPLAZAR_ID_REAL_ESTADIO",
+      "Name": "Estadio Olímpico Pascual Guerrero"
+    }
+  ]
+}
